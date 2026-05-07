@@ -65,6 +65,6 @@ brasil-vs-bitcoin/
 
 ## 👤 Autor
 
-**Leandro Reis Bispo**
+**Leandro Silva Reis Bispo**
 Analista de Sistemas | Cientista de Dados em formação
 [LinkedIn] (https://www.linkedin.com/in/leandrorbispo/) • [GitHub](https://github.com/LeandroBispo90)
