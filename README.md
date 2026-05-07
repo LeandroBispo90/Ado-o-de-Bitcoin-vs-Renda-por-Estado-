@@ -67,4 +67,4 @@ brasil-vs-bitcoin/
 
 **Leandro Reis Bispo**
 Analista de Sistemas | Cientista de Dados em formação
-[LinkedIn](https://linkedin.com/in/SEU_PERFIL) • [GitHub](https://github.com/SEU_USUARIO)
+[LinkedIn] (https://www.linkedin.com/in/leandrorbispo/) • [GitHub](https://github.com/LeandroBispo90)
