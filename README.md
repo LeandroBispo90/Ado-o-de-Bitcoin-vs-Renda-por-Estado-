@@ -1,4 +1,3 @@
-# 🇧🇷 Brasil vs Bitcoin
 
 > Análise da capacidade de adoção de Bitcoin por estado brasileiro,
 > cruzando renda média (IBGE) com interesse em cripto (Google Trends).
@@ -39,6 +38,7 @@ média por estado com o interesse em Bitcoin para responder:
 
 ## 📁 Estrutura do Projeto
 
+\`\`\`
 brasil-vs-bitcoin/
 ├── data/
 │   ├── raw/          → dados brutos, nunca modificados
@@ -53,7 +53,7 @@ brasil-vs-bitcoin/
 │   └── figures/      → gráficos exportados
 ├── requirements.txt
 └── README.md
-
+\`\`\`
 
 ---
 
@@ -65,6 +65,6 @@ brasil-vs-bitcoin/
 
 ## 👤 Autor
 
-**Leandro Silva Reis Bispo**
+**Leandro Reis Bispo**
 Analista de Sistemas | Cientista de Dados em formação
 [LinkedIn](https://www.linkedin.com/in/leandrorbispo/) • [GitHub](https://github.com/LeandroBispo90)
