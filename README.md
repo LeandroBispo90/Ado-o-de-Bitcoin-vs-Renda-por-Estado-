@@ -38,7 +38,7 @@ média por estado com o interesse em Bitcoin para responder:
 
 ## 📁 Estrutura do Projeto
 
-\`\`\`
+```
 brasil-vs-bitcoin/
 ├── data/
 │   ├── raw/          → dados brutos, nunca modificados
@@ -53,7 +53,7 @@ brasil-vs-bitcoin/
 │   └── figures/      → gráficos exportados
 ├── requirements.txt
 └── README.md
-\`\`\`
+```
 
 ---
 
